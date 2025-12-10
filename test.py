@@ -1,0 +1,1 @@
+print("hello world, this is a test file,我要接管人类世界啦！")
